@@ -1,5 +1,5 @@
 /*
- **Authors: Simar Chhabra
+ **Author: Simar Chhabra
  **File defines methods of BitInputStream
  **/
 #include <iostream>
